@@ -4,9 +4,7 @@
 <h5>
  
 - [📝Learning]...
-
-- [☕Coffee] is good :3
-
+- [☕Coffee] é mo bom!
 - [☕] Desenvolvedor de plugins de Minecraft
 - [🤖] Desenvolvedor de Bots para o Discord!
 
