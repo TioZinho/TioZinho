@@ -1,5 +1,5 @@
 <h1> Salve 🤙,Eu sou o TioZinho </h1>
-<h3> Curto java javascript e plugins de minecraft..!</h3>
+<h3> Curto java javascript e plugins em java..!</h3>
 
 <h5>
  
