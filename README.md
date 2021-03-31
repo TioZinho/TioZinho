@@ -29,12 +29,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg " alt="nodejs " width="45" height="45"/>
 
 <!-- icones com fundo -->
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="45" height="45"/>
-
 <img src="https://yt3.ggpht.com/a/AATXAJw1tXvJInOnm44MdEF3kS0b8x-W4Twj27SYvJ9gRw=s100-c-k-c0xffffffff-no-rj-mo" alt="discord dev" width="45" height="45"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg" alt="photoshop" width="45" height="45"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="vegas" width="45" height="45"/>
 </div>
