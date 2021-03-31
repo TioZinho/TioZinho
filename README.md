@@ -5,7 +5,7 @@
  
 - [📝Learning]...
 - [☕Coffee] é mo bom!
-- [☕] Desenvolvedor de plugins de Minecraft
+- [☕] Desenvolvedor de plugins em Java!
 - [🤖] Desenvolvedor de Bots para o Discord!
 
 
